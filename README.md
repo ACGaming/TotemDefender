@@ -1,3 +1,8 @@
+## WARNING!
+
+**The project is no longer supported.  
+I give my consent to any forks, changes and porting of the code.**
+
 ## TotemDefender 1.12.2
 
 The master branch will always contain the latest released version with possibly some bug fixes for that version that will eventually be released.
